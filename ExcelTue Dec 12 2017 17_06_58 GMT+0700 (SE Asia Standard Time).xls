@@ -1,562 +1,327 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name="Excel Workbook Frameset">
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 12">
+<link rel=File-List
+href="ExcelTue%20Dec%2012%202017%2017_06_58%20GMT+0700%20(SE%20Asia%20Standard%20Time).files/filelist.xml">
+<![if !supportTabStrip]>
+<link id="shLink" href="ExcelTue%20Dec%2012%202017%2017_06_58%20GMT+0700%20(SE%20Asia%20Standard%20Time).files/sheet001.htm">
+
+<link id="shLink">
+
+<script language="JavaScript">
+<!--
+ var c_lTabs=1;
+
+ var c_rgszSh=new Array(c_lTabs);
+ c_rgszSh[0] = "ExcelTue Dec 12 2017 17_06_58 G";
 
 
-      
-  
-      
-    
-  <table _ngcontent-c3="" border="1">
-    <caption _ngcontent-c3="">
-      <div _ngcontent-c3="" style="padding-left:50%;text-align:center;clear:none;margin-left:50px">
-          <img _ngcontent-c3="" alt="logo" height="150" style="border-radius: 50%;" src="http://localhost:4200/assets/img/pilogo_1024.png">
-      </div>
-        <br _ngcontent-c3="">
-      <div _ngcontent-c3="" style="text-align:left;">ชื่อรายงาน : บุคลากรทั้งหมด</div>
-      <div _ngcontent-c3="" style="text-align:right;">วันที่พิมพ์ : 12 ธ.ค. 2560</div>
-      <div _ngcontent-c3="" style="text-align:right;">ผู้ใช้งาน : admin admin_</div>
-      <br _ngcontent-c3="">
-    </caption>
-    <thead _ngcontent-c3="">
-      <tr _ngcontent-c3="">
-        <th _ngcontent-c3="">ลำดับ</th>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><th _ngcontent-c3="">คำนำหน้า</th><th _ngcontent-c3="">ชื่อ - นามสกุล</th><th _ngcontent-c3="">ประเภทบุคลากร</th><th _ngcontent-c3="">สถานะปัจจุบัน</th><th _ngcontent-c3="">วันที่ (กรณีออกจากการปฏิบัติงาน)</th><th _ngcontent-c3="">หน่วยงานที่สังกัด</th>
-      </tr>
-    </thead>
-    <tbody _ngcontent-c3="">
-      <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">1</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">ชายแดน ชนะโน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">2</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">วาสนา มั่งคั่ง</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">3</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">ไพทูรย์ มาผิว</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">4</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">เสน่ห์ ขุนแก้ว</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ลาศึกษาต่อ</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">5</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">นิศารัตน์ นาคทั่ง</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">6</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">ประภาพร มโนรัตน์</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">7</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">นภดล เลือดนักรบ</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">8</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">ปฐพร แสงเขียว</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">9</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">อนัญญา คูอาริยะกุล</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">10</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">มณฑา อุดมเลิศ</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">11</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">สุนันทา สายจันทร์</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">12</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">นพณัฐ รุจิเรืองอนันต์</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">13</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">นันทกาญจน์ ปักษี</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">14</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">ผ่องศรี พุทธรักษ์</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">15</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">วิภาวรรณ นวลทอง</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">16</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">สุปราณี หมื่นยา</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">17</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">ดุจเดือน เขียวเหลือง</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">18</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">วีระยุทธ อินพะเนา</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">19</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">วิไลวรรณ บุญเรือง</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">20</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">อดุลย์ วุฒิจูรีพันธ์</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">21</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">วิมล อ่อนเส็ง</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">22</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">จิระภา สุมาลี</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">23</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">เสาวลักษณ์ เนตรชัง</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">24</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">บุญฤทธิ์ ประสิทธิ์นราพันธุ์</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">25</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">ดวงดาว เทพทองคำ</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">26</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">พิศิษฐ์ พวงนาค</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ไปช่วยราชการนอก สบช.</td><td _ngcontent-c3="">25/11/2557</td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">27</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">กันตวิชญ์ จูเปรมปรี</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ลาศึกษาต่อ</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">28</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">สายฝน วรรณขาว</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">29</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">อิทธิพล แก้วฟอง</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">30</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">อัญชรี เข็มเพชร</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">31</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">จิราพร ศรีพลากิจ</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">32</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">นัยนา แก้วคง</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">33</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">สิตานันท์ ศรีใจวงค์</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">34</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">ดาราวรรณ ดีพร้อม</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">35</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">ศศิธร ชิดนายี</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">36</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">อลิษา ทรัพย์สังข์</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">37</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">พัชชา สุวรรณรอด</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">38</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">ภราดร ล้อธรรมมา</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">39</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">อรุณรัตน์ พรมมา</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">40</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">วราภรณ์ ยศทวี</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">41</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">นัดดา กอบแก้ว</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">42</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">สุดารัตน์ ไชยประสิทธิ์</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">43</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">สืบตระกูล ตันตลานุกูล</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">44</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">สุรีรัตน์ สังกาศ</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">45</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">นงคราญ เยาวรัตน์</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">46</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">ภิญญารัช บรรเจิดพงศ์ชัย</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">47</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">วาสนา ครุฑเมือง</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">48</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">นัยนา อินธิโชติ</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">49</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">กรองทิพย์ อยู่อ้น</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">50</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">จิราพร วิศิษฎ์โกศล</td><td _ngcontent-c3="">ข้าราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">51</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">พิชญ์ชาภรณ์ มูลประโคนชัย</td><td _ngcontent-c3="">พนักงานราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">52</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">จุฑามาศ มหาวี</td><td _ngcontent-c3="">พนักงานราชการ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">53</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">ณัฐณิชา ปานก้อม</td><td _ngcontent-c3="">ลูกจ้างประจำ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">54</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">ทัพพ์ธนวันต์ จีนอนันต์</td><td _ngcontent-c3="">ลูกจ้างประจำ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">55</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">หฤทัย ดีก่อผล</td><td _ngcontent-c3="">ลูกจ้างประจำ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">56</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">นงรัช อู่รอด</td><td _ngcontent-c3="">ลูกจ้างประจำ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">57</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">สุพัตรา มากำเหนิด</td><td _ngcontent-c3="">ลูกจ้างประจำ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">58</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">จรินทร์ มากำเหนิด</td><td _ngcontent-c3="">ลูกจ้างประจำ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">59</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">สุกัญญา อุมรินทร์</td><td _ngcontent-c3="">ลูกจ้างประจำ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">60</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">สุมาลี นาคเหล็ก</td><td _ngcontent-c3="">ลูกจ้างประจำ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">61</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">นัฐภรณ์ เพ็งเสงี่ยม</td><td _ngcontent-c3="">ลูกจ้างประจำ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">62</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">อำนวย ปานก้อม</td><td _ngcontent-c3="">ลูกจ้างประจำ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">63</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">อัธยา จันทร์ยวง</td><td _ngcontent-c3="">ลูกจ้างประจำ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">64</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">สุรีย์พร มายรรยงค์</td><td _ngcontent-c3="">ลูกจ้างประจำ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">65</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">กนกพร นาคเหล็ก</td><td _ngcontent-c3="">ลูกจ้างประจำ</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">66</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">เชาวลิต ช่วยศรี</td><td _ngcontent-c3="">ลูกจ้างชั่วคราวเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">67</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">ประเสริฐ มั่นสุข</td><td _ngcontent-c3="">ลูกจ้างชั่วคราวเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">68</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">ธนพร สังข์หอม</td><td _ngcontent-c3="">ลูกจ้างชั่วคราวเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">69</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">ล้วน แสงอ่วม</td><td _ngcontent-c3="">ลูกจ้างชั่วคราวเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">70</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">กัณฐมณี นรากรณ์</td><td _ngcontent-c3="">ลูกจ้างชั่วคราวเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">71</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">ชลดา สังข์นาค</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">72</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">นิภาภรณ์ เมืองด่่าน</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">73</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">วรวิทย์ มะโนคำ</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">74</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">คมสัน ทองศรีอ้น</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">75</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">สำราญ โคตสา</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">76</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">นราวุธ มะโหรา</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">77</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">กนกพร เพ็งจู</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">78</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">ปาริชาติ เม่นต้นสาย</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">79</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">กนกกร ถนอมเกียรติ</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">80</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">ยลดา เงินเมือง</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">81</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">พิศมัย วงคำ</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">82</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">สุภาลัย รุ่งโรจน์</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">83</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">พันธ์ โพธิเนตร</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">84</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">ธนากร พุ่มพร</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">85</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">กังวาลเพชร นาคทอง</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">86</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">รัตติยา เตชัย</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">87</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">ฐิตินันท์ ทั่งมั่งมี</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">88</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">ผุสรัตน์ จันคำ</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">89</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">เอกพล ขวัญอ่อน</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">90</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">วรรณา จันทร์ทอง</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">91</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">สมเกียรติ จันทร์คำ</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">92</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">อนุตรา ประสงค์</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">93</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">ศรีวดีญา ธนะโชติ</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">94</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">จริยา หนูน้อย</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">95</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">ณัฎฐ์ฌาฑ์ สร้อยเพชร</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">96</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">วิไลพร สุวรรณ์</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">97</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">วราภรณ์ เพ็งสว่าง</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">98</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">ลำพึง โคตสา</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">99</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">ปฎิวัฒน์ ใจศรี</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">100</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาง</td><td _ngcontent-c3="">ทับทิม มูลจันทร์ทรง</td><td _ngcontent-c3="">ลูกจ้างเหมาเงินรายได้</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">101</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">นพรัตน์ สวนปาน</td><td _ngcontent-c3="">พนักงานกระทรวงสาธารณสุข</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">102</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">พรจนา วงษ์ยอด</td><td _ngcontent-c3="">พนักงานกระทรวงสาธารณสุข</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">103</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">อรรถพล ยิ้มยรรยง</td><td _ngcontent-c3="">พนักงานกระทรวงสาธารณสุข</td><td _ngcontent-c3="">ลาศึกษาต่อ</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">104</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">ทิฏฐิ ศรีวิสัย</td><td _ngcontent-c3="">พนักงานกระทรวงสาธารณสุข</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">105</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นางสาว</td><td _ngcontent-c3="">สุกัญญา ม่วงเลี้ยง</td><td _ngcontent-c3="">พนักงานกระทรวงสาธารณสุข</td><td _ngcontent-c3="">ลาศึกษาต่อ</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr><tr _ngcontent-c3="">
-        <td _ngcontent-c3="">106</td>
-        <!--bindings={
-  "ng-reflect-ng-for-of": "[object Object],[object Object"
-}--><td _ngcontent-c3="">นาย</td><td _ngcontent-c3="">ณรงค์ นาคะสิงห์</td><td _ngcontent-c3="">พนักงานกระทรวงสาธารณสุข</td><td _ngcontent-c3="">ปกติ / ปฏิบัติงาน / ข้าราชการ / รับโอน</td><td _ngcontent-c3=""></td><td _ngcontent-c3="">วพบ.อุตรดิตถ์</td>
-      </tr>
-    </tbody>
-    
-  </table>
+
+ var c_rgszClr=new Array(8);
+ c_rgszClr[0]="window";
+ c_rgszClr[1]="buttonface";
+ c_rgszClr[2]="windowframe";
+ c_rgszClr[3]="windowtext";
+ c_rgszClr[4]="threedlightshadow";
+ c_rgszClr[5]="threedhighlight";
+ c_rgszClr[6]="threeddarkshadow";
+ c_rgszClr[7]="threedshadow";
+
+ var g_iShCur;
+ var g_rglTabX=new Array(c_lTabs);
+
+function fnGetIEVer()
+{
+ var ua=window.navigator.userAgent
+ var msie=ua.indexOf("MSIE")
+ if (msie>0 && window.navigator.platform=="Win32")
+  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
+ else
+  return 0;
+}
+
+function fnBuildFrameset()
+{
+ var szHTML="<frameset rows=\"*,18\" border=0 width=0 frameborder=no framespacing=0>"+
+  "<frame src=\""+document.all.item("shLink")[0].href+"\" name=\"frSheet\" noresize>"+
+  "<frameset cols=\"54,*\" border=0 width=0 frameborder=no framespacing=0>"+
+  "<frame src=\"\" name=\"frScroll\" marginwidth=0 marginheight=0 scrolling=no>"+
+  "<frame src=\"\" name=\"frTabs\" marginwidth=0 marginheight=0 scrolling=no>"+
+  "</frameset></frameset><plaintext>";
+
+ with (document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ fnBuildTabStrip();
+}
+
+function fnBuildTabStrip()
+{
+ var szHTML=
+  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+";cursor:default;line-height:10pt;}"+
+  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-height:11pt;}</style></head>"+
+  "<body onclick=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" onselectstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+" topmargin=0 leftmargin=0><table cellpadding=0 cellspacing=0 width=100%>"+
+  "<tr><td colspan=6 height=1 bgcolor="+c_rgszClr[2]+"></td></tr>"+
+  "<tr><td style=\"font:1pt\">&nbsp;<td>"+
+  "<td valign=top id=tdScroll class=\"clScroll\" onclick=\"parent.fnFastScrollTabs(0);\" onmouseover=\"parent.fnMouseOverScroll(0);\" onmouseout=\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
+  "<td valign=top id=tdScroll class=\"clScroll2\" onclick=\"parent.fnScrollTabs(0);\" ondblclick=\"parent.fnScrollTabs(0);\" onmouseover=\"parent.fnMouseOverScroll(1);\" onmouseout=\"parent.fnMouseOutScroll(1);\"><a>&lt</a></td>"+
+  "<td valign=top id=tdScroll class=\"clScroll2\" onclick=\"parent.fnScrollTabs(1);\" ondblclick=\"parent.fnScrollTabs(1);\" onmouseover=\"parent.fnMouseOverScroll(2);\" onmouseout=\"parent.fnMouseOutScroll(2);\"><a>&gt</a></td>"+
+  "<td valign=top id=tdScroll class=\"clScroll\" onclick=\"parent.fnFastScrollTabs(1);\" onmouseover=\"parent.fnMouseOverScroll(3);\" onmouseout=\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
+  "<td style=\"font:1pt\">&nbsp;<td></tr></table></body></html>";
+
+ with (frames['frScroll'].document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ szHTML =
+  "<html><head>"+
+  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgszClr[3]+";}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt Arial;padding-left:3px;padding-right:3px;text-align:center;}"+
+  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
+  "</style></head><body onload=\"parent.fnInit();\" onselectstart=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+
+  " topmargin=0 leftmargin=0><table id=tbTabs cellpadding=0 cellspacing=0>";
+
+ var iCellCount=(c_lTabs+1)*2;
+
+ var i;
+ for (i=0;i<iCellCount;i+=2)
+  szHTML+="<col width=1><col>";
+
+ var iRow;
+ for (iRow=0;iRow<6;iRow++) {
+
+  szHTML+="<tr>";
+
+  if (iRow==5)
+   szHTML+="<td colspan="+iCellCount+"></td>";
+  else {
+   if (iRow==0) {
+    for(i=0;i<iCellCount;i++)
+     szHTML+="<td height=1 class=\"clBorder\"></td>";
+   } else if (iRow==1) {
+    for(i=0;i<c_lTabs;i++) {
+     szHTML+="<td height=1 nowrap class=\"clBorder\">&nbsp;</td>";
+     szHTML+=
+      "<td id=tdTab height=1 nowrap class=\"clTab\" onmouseover=\"parent.fnMouseOverTab("+i+");\" onmouseout=\"parent.fnMouseOutTab("+i+");\">"+
+      "<a href=\""+document.all.item("shLink")[i].href+"\" target=\"frSheet\" id=aTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
+    }
+    szHTML+="<td id=tdTab height=1 nowrap class=\"clBorder\"><a id=aTab>&nbsp;</a></td><td width=100%></td>";
+   } else if (iRow==2) {
+    for (i=0;i<c_lTabs;i++)
+     szHTML+="<td height=1></td><td height=1 class=\"clBorder\"></td>";
+    szHTML+="<td height=1></td><td height=1></td>";
+   } else if (iRow==3) {
+    for (i=0;i<iCellCount;i++)
+     szHTML+="<td height=1></td>";
+   } else if (iRow==4) {
+    for (i=0;i<c_lTabs;i++)
+     szHTML+="<td height=1 width=1></td><td height=1></td>";
+    szHTML+="<td height=1 width=1></td><td></td>";
+   }
+  }
+  szHTML+="</tr>";
+ }
+
+ szHTML+="</table></body></html>";
+ with (frames['frTabs'].document) {
+  open("text/html","replace");
+  charset=document.charset;
+  write(szHTML);
+  close();
+ }
+}
+
+function fnInit()
+{
+ g_rglTabX[0]=0;
+ var i;
+ for (i=1;i<=c_lTabs;i++)
+  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
+   g_rglTabX[i]=offsetLeft+offsetWidth-6;
+}
+
+function fnTabToCol(iTab)
+{
+ return 2*iTab+1;
+}
+
+function fnNextTab(fDir)
+{
+ var iNextTab=-1;
+ var i;
+
+ with (frames['frTabs'].document.body) {
+  if (fDir==0) {
+   if (scrollLeft>0) {
+    for (i=0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=i-1;
+   }
+  } else {
+   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
+    for (i=0;i<c_lTabs&&g_rglTabX[i]<=scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=i;
+   }
+  }
+ }
+ return iNextTab;
+}
+
+function fnScrollTabs(fDir)
+{
+ var iNextTab=fnNextTab(fDir);
+
+ if (iNextTab>=0) {
+  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
+  return true;
+ } else
+  return false;
+}
+
+function fnFastScrollTabs(fDir)
+{
+ if (c_lTabs>16)
+  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
+ else
+  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");",5);
+}
+
+function fnSetTabProps(iTab,fActive)
+{
+ var iCol=fnTabToCol(iTab);
+ var i;
+
+ if (iTab>=0) {
+  with (frames['frTabs'].document.all) {
+   with (tbTabs) {
+    for (i=0;i<=4;i++) {
+     with (rows[i]) {
+      if (i==0)
+       cells[iCol].style.background=c_rgszClr[fActive?0:2];
+      else if (i>0 && i<4) {
+       if (fActive) {
+        cells[iCol-1].style.background=c_rgszClr[2];
+        cells[iCol].style.background=c_rgszClr[0];
+        cells[iCol+1].style.background=c_rgszClr[2];
+       } else {
+        if (i==1) {
+         cells[iCol-1].style.background=c_rgszClr[2];
+         cells[iCol].style.background=c_rgszClr[1];
+         cells[iCol+1].style.background=c_rgszClr[2];
+        } else {
+         cells[iCol-1].style.background=c_rgszClr[4];
+         cells[iCol].style.background=c_rgszClr[(i==2)?2:4];
+         cells[iCol+1].style.background=c_rgszClr[4];
+        }
+       }
+      } else
+       cells[iCol].style.background=c_rgszClr[fActive?2:4];
+     }
+    }
+   }
+   with (aTab[iTab].style) {
+    cursor=(fActive?"default":"hand");
+    color=c_rgszClr[3];
+   }
+  }
+ }
+}
+
+function fnMouseOverScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=c_rgszClr[7];
+}
+
+function fnMouseOutScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=c_rgszClr[6];
+}
+
+function fnMouseOverTab(iTab)
+{
+ if (iTab!=g_iShCur) {
+  var iCol=fnTabToCol(iTab);
+  with (frames['frTabs'].document.all) {
+   tdTab[iTab].style.background=c_rgszClr[5];
+  }
+ }
+}
+
+function fnMouseOutTab(iTab)
+{
+ if (iTab>=0) {
+  var elFrom=frames['frTabs'].event.srcElement;
+  var elTo=frames['frTabs'].event.toElement;
+
+  if ((!elTo) ||
+   (elFrom.tagName==elTo.tagName) ||
+   (elTo.tagName=="A" && elTo.parentElement!=elFrom) ||
+   (elFrom.tagName=="A" && elFrom.parentElement!=elTo)) {
+
+   if (iTab!=g_iShCur) {
+    with (frames['frTabs'].document.all) {
+     tdTab[iTab].style.background=c_rgszClr[1];
+    }
+   }
+  }
+ }
+}
+
+function fnSetActiveSheet(iSh)
+{
+ if (iSh!=g_iShCur) {
+  fnSetTabProps(g_iShCur,false);
+  fnSetTabProps(iSh,true);
+  g_iShCur=iSh;
+ }
+}
+
+ window.g_iIEVer=fnGetIEVer();
+ if (window.g_iIEVer>=4)
+  fnBuildFrameset();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>ExcelTue Dec 12 2017 17_06_58 G</x:Name>
+    <x:WorksheetSource
+     HRef="ExcelTue%20Dec%2012%202017%2017_06_58%20GMT+0700%20(SE%20Asia%20Standard%20Time).files/sheet001.htm"/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet
+   HRef="ExcelTue%20Dec%2012%202017%2017_06_58%20GMT+0700%20(SE%20Asia%20Standard%20Time).files/stylesheet.css"/>
+  <x:WindowHeight>6165</x:WindowHeight>
+  <x:WindowWidth>15255</x:WindowWidth>
+  <x:WindowTopX>240</x:WindowTopX>
+  <x:WindowTopY>45</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<frameset rows="*,39" border=0 width=0 frameborder=no framespacing=0>
+ <frame src="ExcelTue%20Dec%2012%202017%2017_06_58%20GMT+0700%20(SE%20Asia%20Standard%20Time).files/sheet001.htm" name="frSheet">
+ <frame src="ExcelTue%20Dec%2012%202017%2017_06_58%20GMT+0700%20(SE%20Asia%20Standard%20Time).files/tabstrip.htm" name="frTabs" marginwidth=0 marginheight=0>
+ <noframes>
+  <body>
+   <p>เพจนี้ใช้เฟรม แต่เบราว์เซอร์ของคุณไม่สนับสนุนเฟรม</p>
+  </body>
+ </noframes>
+</frameset>
+</html>
